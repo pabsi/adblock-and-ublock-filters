@@ -1,0 +1,51 @@
+[Adblock Plus 2.0]
+! Title: Pabs AdBlock Plus filters
+! Homepage: https://pabsiadfilters.000webhostapp.com/
+! Version: 20190510
+! Expires: 7 days
+
+! Expansion.com
+||expansion.com##DIV[class="lightbox_shadow Bloque-anuncios-shadow"]
+||expansion.com##SECTION[class="lightbox js-Bloque-anuncios Bloque-anuncios"]
+||e00-elmundo.uecdn.es/js/*
+||static.chartbeat.com/js/*
+||expansion.com/ed/modal/bloqueo.html
+
+! LNE
+||estaticos*.lne.es/elementosWeb/js/*
+||lne.es##DIV[class="contenedor_adblock"]
+||lne.es/elementosWeb/js/dfp.js
+||estaticos.lne.es/elementosWeb/gen/js/*
+||ultimedia.com/js/common/smart.js
+||active.cache.el-mundo.net/js/*
+||js.srcsmrtgs.com/js/pop.js
+||cdn.livefyre.com/libs/Livefyre/v1.1.4/builds/1507934384606/Livefyre.min.js
+||b.scorecardresearch.com/c2/8731705/cs.js
+||try.abtasty.com/4b097dbb24e940c7c8eea06416fe114d.js
+||cdn1.revdepo.com/static/advertisement.js
+||*.clksite.com/*
+||clksite.com/*
+||ort-ort.com##DIV[id="modal"][class="modal-bg"]
+
+! Skidrow Reloaded
+||skidrowreloaded.com##IMG[class="lazy lazy-hidden aligncenter"]
+||skidrowreloaded.com##IMG[class="lazy lazy-hidden"]
+||uptobox.com##DIV[id="zblvmgur"][class="ncjglokt vzkqsfmy trvjqwya"]
+||game.giveawayoftheday.com##DIV[class="col2-1 ads_wrap "]
+||givemesport.com##DIV[id="media_gms_636253094798279304"][class="jwplayer jw-reset jw-skin-glow jw-stretch-uniform jw-flag-aspect-mode jw-state-paused jw-flag-user-inactive"]
+||givemesport.com##DIV[class="gms-video-wrapper"]
+||givemesport.com##DIV[class="jw-media jw-reset"]
+
+! MundoKodi
+mundokodi.com##DIV[class="GQKSRurASNgW-bg"]
+mundokodi.com##DIV[id="KUqnGXwBGEMd"][class="GQKSRurASNgW"]
+
+! Cryptomining
+https://coin-hive.com/lib/coinhive.min.js
+
+! MarcaTV videos
+@@||c.amazon-adsystem.com/aax2/apstag.js
+
+! Arenavision
+||arenavision.in##DIV[id="smrt_adfly"]
+||arenavision.in##DIV[id="adsdiv"]
