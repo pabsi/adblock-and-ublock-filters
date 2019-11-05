@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Pabs uBlock Origin filters
-! Homepage: https://pabsiadfilters.000webhostapp.com/
-! Version: 20190114
+! Homepage: https://raw.githubusercontent.com/pabsi/adblock-and-ublock-filters/master/ublock_filters.txt
+! Version: 20191105
 ! Expires: 7 days
 
 ! Marca

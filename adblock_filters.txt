@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Pabs AdBlock Plus filters
-! Homepage: https://pabsiadfilters.000webhostapp.com/
-! Version: 20190510
+! Homepage: https://raw.githubusercontent.com/pabsi/adblock-and-ublock-filters/master/adblock_filters.txt
+! Version: 20191105
 ! Expires: 7 days
 
 ! Expansion.com
