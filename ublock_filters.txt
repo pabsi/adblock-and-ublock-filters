@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Pabs uBlock Origin filters
 ! Homepage: https://raw.githubusercontent.com/pabsi/adblock-and-ublock-filters/master/ublock_filters.txt
-! Version: 20191105
+! Version: 20201014
 ! Expires: 7 days
 
 ! Marca
@@ -11,5 +11,11 @@ www.marca.com###banda_suscripcion
 ! Streaming sites chat
 ||st.chatango.com/*
 
-! 10/27/2019 https://www.fotocasa.es
+! https://www.fotocasa.es
 www.fotocasa.es##.sui-MoleculeNotification-effect--bottom.sui-MoleculeNotification--positive.sui-MoleculeNotification--bottom.sui-MoleculeNotification--system.sui-MoleculeNotification
+
+! https://ort-ort.com
+||streamingradioplayer.inovanex.com/*
+
+! Cryptomining
+https://coin-hive.com/lib/coinhive.min.js
