@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Pabs uBlock Origin filters
 ! Homepage: https://raw.githubusercontent.com/pabsi/adblock-and-ublock-filters/master/ublock_filters.txt
-! Version: 20201014
+! Version: 20211122
 ! Expires: 7 days
 
 ! Marca
@@ -19,3 +19,9 @@ www.fotocasa.es##.sui-MoleculeNotification-effect--bottom.sui-MoleculeNotificati
 
 ! Cryptomining
 https://coin-hive.com/lib/coinhive.min.js
+
+! Ali Express
+es.aliexpress.com##.coupon-poplayer-modal
+es.aliexpress.com##.drogue-poplayer-modal
+es.aliexpress.com##._3KrBP
+
