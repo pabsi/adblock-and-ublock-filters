@@ -1,11 +1,12 @@
 [Adblock Plus 2.0]
 ! Title: Pabs uBlock Origin filters
 ! Homepage: https://raw.githubusercontent.com/pabsi/adblock-and-ublock-filters/master/ublock_filters.txt
-! Version: 20211122
+! Version: 20220201
 ! Expires: 7 days
 
 ! Marca
 www.marca.com###banda_suscripcion
+www.marca.com###notification-slider
 @@http://c.amazon-adsystem.com/aax2/apstag.js
 
 ! Streaming sites chat
@@ -25,3 +26,5 @@ es.aliexpress.com##.coupon-poplayer-modal
 es.aliexpress.com##.drogue-poplayer-modal
 es.aliexpress.com##._3KrBP
 
+! https://www.20minutos.es
+www.20minutos.es##.page-home > .axds
