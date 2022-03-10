@@ -28,3 +28,6 @@ es.aliexpress.com##._3KrBP
 
 ! https://www.20minutos.es
 www.20minutos.es##.page-home > .axds
+
+! https://www.lne.es
+www.lne.es##.no-baldomero.commercial-up-full
